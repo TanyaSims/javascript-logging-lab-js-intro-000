@@ -1,3 +1,3 @@
 console.error("Help!")
-condole.log("Hello?")
+console.log("Hello?")
 console.warn("Stop that.")
